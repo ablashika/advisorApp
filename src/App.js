@@ -11,7 +11,7 @@ import AdvisoPage from './Components/AdvisoPage';
 function App() {
   return (
     <div className="App">
-      <AdvisoPage quotes="it is easy to take notice"/>  
+      <AdvisoPage />  
     </div>
   );
 }
