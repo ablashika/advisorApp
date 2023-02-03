@@ -2,7 +2,6 @@ import React from 'react';
 import ".././styles.css"
 import { useEffect, useState } from "react";
 import axios from 'axios';
-import html2canvas from 'html2canvas';
 import Screenshot from './Screenshot';
 
 
