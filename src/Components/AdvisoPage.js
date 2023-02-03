@@ -11,6 +11,7 @@ export default function AdvisoPage() {
   useEffect (()=>{
     getAllPost()
   },[])
+  
 
 
 const getAllPost = () =>{
